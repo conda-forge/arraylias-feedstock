@@ -1,5 +1,5 @@
 {% set name = "arraylias" %}
-{% set version = "0.1.0" %}
+{% set version = "0.1.1" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/arraylias-{{ version }}.tar.gz
-  sha256: f4f42f9ffd290154731c7e95a7226798eaa415a4a598777d24ec554d46b318fd
+  sha256: 80678a00a6a716e63379efdad54b9ea6454885021189d6241facd7f3991d5200
 
 build:
   noarch: python
