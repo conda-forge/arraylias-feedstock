@@ -3,7 +3,7 @@ About arraylias-feedstock
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/arraylias-feedstock/blob/main/LICENSE.txt)
 
-Home: https://github.com/Qiskit/arraylias
+Home: https://github.com/qiskit-community/arraylias
 
 Package license: Apache-2.0
 
