@@ -31,7 +31,7 @@ test:
     - pip
 
 about:
-  home: https://github.com/Qiskit/arraylias
+  home: https://github.com/qiskit-community/arraylias
   summary: A Python package for aliased function dispatching to multiple array libraries
   license: Apache-2.0
   license_file: LICENSE.txt
